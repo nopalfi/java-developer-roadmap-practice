@@ -19,6 +19,7 @@ Category: Gradle/Maven, Library
 	2. Semantic Version  
 	3. Version, scripts, repository, etc
 	
-Category: SQL fundamentals  
-	1. Learn SQL Syntax  
+Category: JDBC fundamental
+	1. learn SQL syntax
+
 						
